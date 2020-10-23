@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-dlp/#history
 
+### [2.0.1](https://www.github.com/googleapis/python-dlp/compare/v2.0.0...v2.0.1) (2020-10-23)
+
+
+### Bug Fixes
+
+* **sample-test:** add backoff around the cleanup code ([#65](https://www.github.com/googleapis/python-dlp/issues/65)) ([4fd54ee](https://www.github.com/googleapis/python-dlp/commit/4fd54ee0b6f3abe44341d599bcbb5fb6c1d5187a))
+* fix vpcsc tests ([#51](https://www.github.com/googleapis/python-dlp/issues/51)) ([e05dd20](https://www.github.com/googleapis/python-dlp/commit/e05dd20bc2dcea47d3ef352ebf0377ff70302ac2))
+
 ## [2.0.0](https://www.github.com/googleapis/python-dlp/compare/v1.0.0...v2.0.0) (2020-08-18)
 
 
